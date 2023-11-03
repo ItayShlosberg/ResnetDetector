@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2625173e-c4e2-4fb6-b5a6-dae9d182448c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/Datasets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2165">
+              <caret line="196" selection-start-line="196" selection-end-line="196" />
+              <folding>
+                <element signature="e#0#6#0" expanded="true" />
+                <element signature="e#27#316#0" />
+                <element signature="e#98#205#0" />
+                <element signature="e#244#316#0" />
+                <element signature="e#418#599#1" />
+                <element signature="e#1183#1246#0" />
+                <element signature="e#1755#1881#0" />
+                <element signature="e#1912#2038#0" />
+                <element signature="e#2224#2250#0" />
+                <element signature="e#3200#3216#0" />
+                <element signature="e#4224#4630#0" />
+                <element signature="e#4266#4298#0" />
+                <element signature="e#4337#4630#0" />
+                <element signature="e#4701#4882#1" />
+                <element signature="e#5395#5483#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/training/training_resnet_detector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="219" column="45" selection-start-line="219" selection-start-column="45" selection-end-line="219" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+                <element signature="e#1010#1034#0" />
+                <element signature="e#4524#4799#0" />
+                <element signature="e#6092#6645#0" />
+                <element signature="e#6195#6266#0" />
+                <element signature="e#6672#7795#0" />
+                <element signature="e#6736#6947#0" />
+                <element signature="e#6998#7516#0" />
+                <element signature="e#7065#7138#0" />
+                <element signature="e#7202#7387#0" />
+                <element signature="e#7414#7516#0" />
+                <element signature="e#7574#7795#0" />
+                <element signature="e#8312#8348#0" />
+                <element signature="e#8461#8520#0" />
+                <element signature="e#9021#9046#0" />
+                <element signature="e#10702#10716#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inference/draw_model_predictions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-816">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#766#793#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inference/inference_entire_dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="128" column="57" selection-start-line="128" selection-start-column="57" selection-end-line="128" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+                <element signature="e#808#835#0" />
+                <element signature="e#4623#4785#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/resnet_detection_utils/pre_post_process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/visualizations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+              <folding>
+                <element signature="e#136#458#0" />
+                <element signature="e#49#79#0" />
+                <element signature="e#211#366#0" />
+                <element signature="e#508#997#0" />
+                <element signature="e#539#558#0" />
+                <element signature="e#590#656#0" />
+                <element signature="e#696#763#0" />
+                <element signature="e#1713#2517#0" />
+                <element signature="e#1179#1403#0" />
+                <element signature="e#1444#1510#0" />
+                <element signature="e#1550#1617#0" />
+                <element signature="e#1887#3268#0" />
+                <element signature="e#2260#2801#0" />
+                <element signature="e#2291#2801#0" />
+                <element signature="e#4024#6224#0" />
+                <element signature="e#4324#4865#0" />
+                <element signature="e#4355#4865#0" />
+                <element signature="e#5710#5934#0" />
+                <element signature="e#5975#6041#0" />
+                <element signature="e#6081#6148#0" />
+                <element signature="e#6195#6212#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/divide_dataset_into_patches.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="177" column="20" selection-start-line="177" selection-start-column="20" selection-end-line="177" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/resnet_detection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="8" column="49" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="49" />
+              <folding>
+                <element signature="e#443#502#0" />
+                <element signature="e#1490#1527#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>calculate_intersection_</find>
+      <find>make_patches</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/training/validate_.py" />
+        <option value="$PROJECT_DIR$/Models/modified_resnet.py" />
+        <option value="$PROJECT_DIR$/training/draw_model_predictions.py" />
+        <option value="$PROJECT_DIR$/scripts/organize_images.py" />
+        <option value="$PROJECT_DIR$/scripts/organize_images_in_subfolders.py" />
+        <option value="$PROJECT_DIR$/scripts/pip_libs_memory.py" />
+        <option value="$PROJECT_DIR$/scripts/divide_dataset_into_patches.py" />
+        <option value="$PROJECT_DIR$/training/single_inference.py" />
+        <option value="$PROJECT_DIR$/utils/preprocesses.py" />
+        <option value="$PROJECT_DIR$/utils/postprocesses.py" />
+        <option value="$PROJECT_DIR$/Datasets.py" />
+        <option value="$PROJECT_DIR$/Models/resnet_detection.py" />
+        <option value="$PROJECT_DIR$/training/training_tolls.py" />
+        <option value="$PROJECT_DIR$/training/training_adjusted_resnet.py" />
+        <option value="$PROJECT_DIR$/training/training_resnet_detector.py" />
+        <option value="$PROJECT_DIR$/Inference/timeit_model.py" />
+        <option value="$PROJECT_DIR$/utils/resnet_detector_postprocess.py" />
+        <option value="$PROJECT_DIR$/utils/resnet_detection_utils/resnet_detector_postprocess.py" />
+        <option value="$PROJECT_DIR$/utils/resnet_detection_utils/pre_post_process.py" />
+        <option value="$PROJECT_DIR$/Data/Datasets.py" />
+        <option value="$PROJECT_DIR$/Inference/draw_model_predictions.py" />
+        <option value="$PROJECT_DIR$/Inference/inference_entire_dataset.py" />
+        <option value="$PROJECT_DIR$/utils/visualizations.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="-7" />
+    <option name="width" value="1550" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ObjectDetectionIDF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ObjectDetectionIDF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ObjectDetectionIDF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ObjectDetectionIDF" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ObjectDetectionIDF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ObjectDetectionIDF" type="462c0819:PsiDirectoryNode" />
+              <item name="NBs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ObjectDetectionIDF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ObjectDetectionIDF" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ObjectDetectionIDF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ObjectDetectionIDF" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Inference" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\itay\Desktop\IDF\ObjectDetectionIDF\Inference" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\itay\Desktop\IDF\ObjectDetectionIDF\utils\Detection" />
+      <recent name="C:\Users\itay\Desktop\IDF\ObjectDetectionIDF\utils\resnet_detection_utils" />
+      <recent name="C:\Users\itay\Desktop\IDF\ObjectDetectionIDF\Data" />
+      <recent name="C:\Users\itay\Desktop\IDF\ObjectDetectionIDF\Inference" />
+      <recent name="C:\Users\itay\Desktop\IDF\ObjectDetectionIDF\PG" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.inference_entire_dataset">
+    <configuration name="divide_dataset_into_patches" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ObjectDetectionIDF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/divide_dataset_into_patches.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inference_entire_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ObjectDetectionIDF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inference" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inference/inference_entire_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="resnet_detection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ObjectDetectionIDF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Models/resnet_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="training_adjusted_resnet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ObjectDetectionIDF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training/training_adjusted_resnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="training_resnet_detector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ObjectDetectionIDF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training/training_resnet_detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.inference_entire_dataset" />
+        <item itemvalue="Python.training_resnet_detector" />
+        <item itemvalue="Python.training_adjusted_resnet" />
+        <item itemvalue="Python.divide_dataset_into_patches" />
+        <item itemvalue="Python.resnet_detection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2625173e-c4e2-4fb6-b5a6-dae9d182448c" name="Default Changelist" comment="" />
+      <created>1698909068511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698909068511</updated>
+      <workItem from="1698909071131" duration="43381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43381000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1945629" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29035753" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35861322" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4626219" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Remote Host" weight="0.32995737" />
+      <window_info anchor="right" id="SciView" weight="0.32995737" />
+      <window_info anchor="right" id="Database" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1945629" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="5" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.29075804" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.35861322" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4626219" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Remote Host" order="0" weight="0.32995737" />
+      <window_info anchor="right" id="SciView" order="1" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/training/training_adjusted_resnet.py</url>
+          <line>181</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/training/training_adjusted_resnet.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/divide_dataset_into_patches.py</url>
+          <line>182</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualizations.py</url>
+          <line>206</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ObjectDetectionIDF$training_adjusted_resnet.coverage" NAME="training_adjusted_resnet Coverage Results" MODIFIED="1699002030241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+    <SUITE FILE_PATH="coverage/ObjectDetectionIDF$inference_entire_dataset.coverage" NAME="inference_entire_dataset Coverage Results" MODIFIED="1699028297829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inference" />
+    <SUITE FILE_PATH="coverage/ObjectDetectionIDF$training_resnet_detector.coverage" NAME="training_resnet_detector Coverage Results" MODIFIED="1699018333825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+    <SUITE FILE_PATH="coverage/ObjectDetectionIDF$resnet_detection.coverage" NAME="resnet_detection Coverage Results" MODIFIED="1699001184702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
+    <SUITE FILE_PATH="coverage/ObjectDetectionIDF$validate_.coverage" NAME="validate_ Coverage Results" MODIFIED="1698914547440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+    <SUITE FILE_PATH="coverage/ObjectDetectionIDF$draw_model_predictions.coverage" NAME="draw_model_predictions Coverage Results" MODIFIED="1698948711704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+    <SUITE FILE_PATH="coverage/ObjectDetectionIDF$pip_libs_memory.coverage" NAME="pip_libs_memory Coverage Results" MODIFIED="1698995412182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/ObjectDetectionIDF$divide_dataset_into_patches.coverage" NAME="divide_dataset_into_patches Coverage Results" MODIFIED="1699001545487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>len(img_bboxes)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(mg_bboxes)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>img_bboxes</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>img_bboxes[:,2] += MODEL_IMAGE_SIZE - width</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>img_bboxes.shape</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>img_bboxes[:]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>width, height = image.size</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>image.size</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.array([bbox[0] for bbox in annotations['annotations']])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>[bbox[0] for bbox in annotations['annotations']]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resnet_torch_to_js.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-553">
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PG/training_pg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/organize_images_in_subfolders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PG/pip_libs_memory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1698995676661" expanded="true" signature="0:7" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/modified_resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="118" selection-start-line="118" selection-end-line="126" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#73#118#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/Detection/preprocesses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inference/single_inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="84" column="65" selection-start-line="84" selection-start-column="65" selection-end-line="84" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#660#995#0" />
+            <element signature="e#1036#2090#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/Detection/metrics.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/Detection/postprocesses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/torchvision/models/_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="208" selection-start-line="208" selection-end-line="208" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/training_tolls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/training_adjusted_resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#3816#4091#0" />
+            <element signature="e#4137#4741#0" />
+            <element signature="e#4137#4160#0" />
+            <element signature="e#4611#4741#0" />
+            <element signature="e#4770#5229#0" />
+            <element signature="e#5301#5872#0" />
+            <element signature="e#6043#6114#0" />
+            <element signature="e#7262#7334#0" />
+            <element signature="e#7539#7575#0" />
+            <element signature="e#7725#7784#0" />
+            <element signature="e#8519#9069#0" />
+            <element signature="e#8964#8983#0" />
+            <element signature="e#10401#10415#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inference/timeit_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret selection-end-line="21" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#1138#2519#0" />
+            <element signature="e#1511#2052#0" />
+            <element signature="e#1542#2052#0" />
+            <element signature="e#4199#4245#0" />
+            <element signature="e#4623#4785#0" />
+            <element signature="e#6297#6395#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/resnet_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="49" />
+          <folding>
+            <element signature="e#443#502#0" />
+            <element signature="e#1490#1527#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inference/pred_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/resnet_detection_utils/pre_post_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inference/draw_model_predictions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#766#793#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/training_resnet_detector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="219" column="45" selection-start-line="219" selection-start-column="45" selection-end-line="219" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#1010#1034#0" />
+            <element signature="e#4524#4799#0" />
+            <element signature="e#6092#6645#0" />
+            <element signature="e#6195#6266#0" />
+            <element signature="e#6672#7795#0" />
+            <element signature="e#6736#6947#0" />
+            <element signature="e#6998#7516#0" />
+            <element signature="e#7065#7138#0" />
+            <element signature="e#7202#7387#0" />
+            <element signature="e#7414#7516#0" />
+            <element signature="e#7574#7795#0" />
+            <element signature="e#8312#8348#0" />
+            <element signature="e#8461#8520#0" />
+            <element signature="e#9021#9046#0" />
+            <element signature="e#10702#10716#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Datasets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2165">
+          <caret line="196" selection-start-line="196" selection-end-line="196" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#27#316#0" />
+            <element signature="e#98#205#0" />
+            <element signature="e#244#316#0" />
+            <element signature="e#418#599#1" />
+            <element signature="e#1183#1246#0" />
+            <element signature="e#1755#1881#0" />
+            <element signature="e#1912#2038#0" />
+            <element signature="e#2224#2250#0" />
+            <element signature="e#3200#3216#0" />
+            <element signature="e#4224#4630#0" />
+            <element signature="e#4266#4298#0" />
+            <element signature="e#4337#4630#0" />
+            <element signature="e#4701#4882#1" />
+            <element signature="e#5395#5483#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inference/inference_entire_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="128" column="57" selection-start-line="128" selection-start-column="57" selection-end-line="128" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#808#835#0" />
+            <element signature="e#4623#4785#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/visualizations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#136#458#0" />
+            <element signature="e#49#79#0" />
+            <element signature="e#211#366#0" />
+            <element signature="e#508#997#0" />
+            <element signature="e#539#558#0" />
+            <element signature="e#590#656#0" />
+            <element signature="e#696#763#0" />
+            <element signature="e#1713#2517#0" />
+            <element signature="e#1179#1403#0" />
+            <element signature="e#1444#1510#0" />
+            <element signature="e#1550#1617#0" />
+            <element signature="e#1887#3268#0" />
+            <element signature="e#2260#2801#0" />
+            <element signature="e#2291#2801#0" />
+            <element signature="e#4024#6224#0" />
+            <element signature="e#4324#4865#0" />
+            <element signature="e#4355#4865#0" />
+            <element signature="e#5710#5934#0" />
+            <element signature="e#5975#6041#0" />
+            <element signature="e#6081#6148#0" />
+            <element signature="e#6195#6212#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/divide_dataset_into_patches.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="177" column="20" selection-start-line="177" selection-start-column="20" selection-end-line="177" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
